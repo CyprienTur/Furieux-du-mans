@@ -1,0 +1,30 @@
+.box {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.list {
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 10px;
+	flex-basis: 100px;
+}
+
+.list img {
+	width: 150px;
+}
+
+.list p {
+	font-size: 10px;
+}
+
+.list h3 {
+	font-size: 13px;
+	font-weight: bold;
+	padding-left: 20px;
+	font-size: 18 px;
+}
